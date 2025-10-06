@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Hector Rivero
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Adminrivero/Adminrivero?label=updated)
+![Profile Views](https://komarev.com/ghpvc/?username=Adminrivero&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/Adminrivero?label=GitHub%20followers)
 
 <!--
 **Adminrivero/Adminrivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a results-driven software engineer and Python enthusiast with a passion for automation, data processing, and elegant solutions. I enjoy building tools and optimizing workflows that make life easier. I leverage my computer science expertise to architect efficient, scalable backend services. Whether it's wrangling complex data structures, validating files, or crafting high-performance code, I am driven by efficiency and clarity at scale.
+
+I'm a firm believer in continuous learning and am deeply fascinated by the transformative potential of emerging technologies. I'm actively engaged in exploring the latest advancements in Generative AI, Machine Learning, and Deep Learning, with a keen interest in applying them.
