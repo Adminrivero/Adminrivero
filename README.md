@@ -75,7 +75,7 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
 
   <p align="center">
     <i>
-      💻 **Deeply engaged in development. Find my latest work pinned above and follow along!**
+      💻 **Deeply engaged in development. Find my latest work pinned below and follow along!**
     </i>
   </p>
 </details>
