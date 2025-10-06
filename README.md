@@ -49,3 +49,33 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
+
+
+## Activity & stats
+
+<details>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adminrivero&count_private=true&show_icons=true&hide_rank=true&line_height=20&theme=transparent" alt="Adminrivero's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adminrivero&layout=compact&hide=css&theme=transparent" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img align="center" src="https://streak-stats.demolab.com/?user=Adminrivero&theme=transparent" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adminrivero&theme=github&bg_color=transparent" alt="Adminrivero's GitHub Activity Graph" />
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <i>
+      💻 **Deeply engaged in development. Find my latest work pinned above and follow along!**
+    </i>
+  </p>
+</details>
