@@ -57,7 +57,7 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
   <table>
     <tr>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adminrivero&count_private=true&show_icons=true&hide_rank=true&line_height=20&theme=transparent" alt="Adminrivero's GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adminrivero&count_private=true&show_icons=true&hide_rank=true&line_height=20&theme=transparent&cache_bust=1" alt="Adminrivero's GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adminrivero&layout=compact&hide=css&theme=transparent" alt="Top Languages" />
