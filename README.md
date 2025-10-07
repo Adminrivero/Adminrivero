@@ -79,3 +79,21 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
     </i>
   </p>
 </details>
+
+
+## 🏅 Badges
+
+<!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/8c39f365-6989-4f17-8a4d-dff21b16fb8c" title="PCAP™ – Certified Associate Python Programmer"><img src="https://images.credly.com/size/80x80/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="PCAP™ – Certified Associate Python Programmer" width="80" height="80" style="margin-right: 5px;"></a>
+<a href="https://www.credly.com/badges/0678c1fc-3e59-4be2-98e9-80ed7adc9b38" title="Generative AI for Software Developers Specialization"><img src="https://images.credly.com/size/80x80/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png" alt="Generative AI for Software Developers Specialization" width="80" height="80" style="margin-right: 5px;"></a>
+<a href="https://www.credly.com/badges/a6e7c376-5d1d-4c73-b3af-1ea6d567e857" title="Generative AI: Prompt Engineering"><img src="https://images.credly.com/size/80x80/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="Generative AI: Prompt Engineering" width="80" height="80" style="margin-right: 5px;"></a>
+<!--END_SECTION:badges-->
+
+> Find all my badges on [Credly.com](https://www.credly.com/users/hector-rafael-rivero-marquez/badges)
+
+
+## 📫 Connect with me
+
+- 💬 [LinkedIn](https://www.linkedin.com/in/hector-rivero-marquez-198608)
+- 📬 Email: hrrm.1986lt@gmail.com
+- 💼 [Credly Profile](https://www.credly.com/users/hector-rafael-rivero-marquez/badges)
