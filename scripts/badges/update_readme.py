@@ -1,27 +1,39 @@
-from datetime import datetime
-import re
-import os
-from scripts.badges.credly_scraper import fetch_badges_html, extract_badges
+from credly_badge_fetcher import fetch_badges_json, extract_badges_html
+import datetime
 
+USER_ID = "6a916bbc-de5c-453a-8acd-63a7e3efa80c"
 README_PATH = "README.md"
-START_MARKER = "<!--START_SECTION:badges-->"
-END_MARKER = "<!--END_SECTION:badges-->"
+BADGE_START = "<!--START_SECTION:badges-->"
+BADGE_END = "<!--END_SECTION:badges-->"
 
-def update_readme(badge_html):
+def update_readme():
+    json_data = fetch_badges_json(USER_ID)
+    badge_html = extract_badges_html(json_data)
+
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    pattern = f"{START_MARKER}(.*?){END_MARKER}"
-    new_section = f"{START_MARKER}\n{badge_html}\n{END_MARKER}"
-    updated = re.sub(pattern, new_section, content, flags=re.DOTALL)
+    start = content.find(BADGE_START)
+    end = content.find(BADGE_END)
 
-    timestamp = datetime.utcnow().strftime("%Y%m%d%H%M%S")
-    updated = re.sub(r'(cache_bust=)\d+', f'\\1{timestamp}', updated)
+    if start == -1 or end == -1:
+        raise ValueError("Badge markers not found in README.md")
+
+    updated = (
+        content[:start + len(BADGE_START)] + "\n" +
+        badge_html +
+        content[end:]
+    )
+
+    # Update GitHub stats chart timestamp
+    updated = update_stats_timestamp(updated)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(updated)
 
+def update_stats_timestamp(content):
+    timestamp = datetime.datetime.utcnow().strftime("%Y%m%d%H%M%S")
+    return content.replace("cache_bust=", f"cache_bust={timestamp}")
+
 if __name__ == "__main__":
-    html = fetch_badges_html()
-    badge_html = extract_badges(html)
-    update_readme(badge_html)
+    update_readme()
