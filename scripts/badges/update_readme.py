@@ -1,5 +1,5 @@
 from credly_badge_fetcher import fetch_badges_json, extract_badges_html
-import datetime
+from datetime import datetime, timezone
 
 USER_ID = "6a916bbc-de5c-453a-8acd-63a7e3efa80c"
 README_PATH = "README.md"
@@ -32,7 +32,7 @@ def update_readme():
         f.write(updated)
 
 def update_stats_timestamp(content):
-    timestamp = datetime.datetime.utcnow().strftime("%Y%m%d%H%M%S")
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
     return content.replace("cache_bust=", f"cache_bust={timestamp}")
 
 if __name__ == "__main__":
