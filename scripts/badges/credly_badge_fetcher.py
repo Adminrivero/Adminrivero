@@ -57,8 +57,8 @@ def extract_badges_html(json_data):
             
             # Generate HTML snippet
             html += (
-                f'<a href="{badge_url}" title="{badge_name}">'
-                f'<img src="{image_url}" alt="{badge_name}" width="{width}" height="{height}" style="margin-right: 5px;">'
+                f'<a href="{badge_url}" title="{badge_name}" style="display:inline-block; margin: 0 5px 5px 0;">'
+                f'<img src="{image_url}" alt="{badge_name}" width="{width}" height="{height}">'
                 f'</a>\n'
             )
         except KeyError as e:
