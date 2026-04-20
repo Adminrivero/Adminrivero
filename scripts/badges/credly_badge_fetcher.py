@@ -62,7 +62,7 @@ def extract_badges_html(json_data):
             #     f'</a>\n'
             # )
             html += (
-                f'<td style="padding: 5px; text-align: center;">'
+                f'<td style="border: none; padding: 0 5px 5px 0; text-align: center;">'
                 f'<a href="{badge_url}" title="{badge_name}">'
                 f'<img src="{image_url}" alt="{badge_name}" width="{width}" height="{height}">'
                 f'</a>'
