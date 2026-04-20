@@ -84,7 +84,7 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
 ## 🏅 Badges
 
 <div>
-<table style="border-collapse: collapse; border: none;"><tr>
+<table border="0" cellpadding="0" cellspacing="0" frame="void" rules="none" style="border-collapse: collapse; border: none;"><tr>
 <!--START_SECTION:badges-->
 <td style="border: none; padding: 0 5px 5px 0; text-align: center;"><a href="https://www.credly.com/badges/ffaca78c-4f5c-434f-8d3a-53caf2ae0445" title="CS50P: Introduction to Programming with Python"><img src="./res/badges/cs50p_badge.png" alt="CS50P: Introduction to Programming with Python" width="90" height="80"></a></td>
 <td style="border: none; padding: 0 5px 5px 0; text-align: center;"><a href="https://www.credly.com/badges/8c39f365-6989-4f17-8a4d-dff21b16fb8c" title="[PCAP-31-03] PCAP™ – Certified Associate Python Programmer"><img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="[PCAP-31-03] PCAP™ – Certified Associate Python Programmer" width="80" height="80"></a></td>
