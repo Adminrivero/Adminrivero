@@ -83,6 +83,7 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
 
 ## 🏅 Badges
 
+<div>
 <table align="left"><tr>
 <!--START_SECTION:badges-->
 <td style="padding: 5px; text-align: center;"><a href="https://www.credly.com/badges/ffaca78c-4f5c-434f-8d3a-53caf2ae0445" title="CS50P: Introduction to Programming with Python"><img src="./res/badges/cs50p_badge.png" alt="CS50P: Introduction to Programming with Python" width="90" height="80"></a></td>
@@ -92,6 +93,7 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
 <td style="padding: 5px; text-align: center;"><a href="https://www.credly.com/badges/a6e7c376-5d1d-4c73-b3af-1ea6d567e857" title="Generative AI: Prompt Engineering"><img src="https://images.credly.com/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="Generative AI: Prompt Engineering" width="80" height="80"></a></td>
 <!--END_SECTION:badges-->
 </tr></table>
+</div>
 
 > Find all my badges on [Credly.com](https://www.credly.com/users/hector-rafael-rivero-marquez/badges)
 
