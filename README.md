@@ -83,7 +83,7 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
 
 ## 🏅 Badges
 
-<p align="left">
+<table align="left"><tr>
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/ffaca78c-4f5c-434f-8d3a-53caf2ae0445" title="CS50P: Introduction to Programming with Python" style="display:inline-block; margin: 0 5px 5px 0;"><img src="./res/badges/cs50p_badge.png" alt="CS50P: Introduction to Programming with Python" width="90" height="80"></a>
 <a href="https://www.credly.com/badges/8c39f365-6989-4f17-8a4d-dff21b16fb8c" title="[PCAP-31-03] PCAP™ – Certified Associate Python Programmer" style="display:inline-block; margin: 0 5px 5px 0;"><img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="[PCAP-31-03] PCAP™ – Certified Associate Python Programmer" width="80" height="80"></a>
@@ -91,7 +91,7 @@ I'm a firm believer in continuous learning and am deeply fascinated by the trans
 <a href="https://www.credly.com/badges/0678c1fc-3e59-4be2-98e9-80ed7adc9b38" title="Generative AI for Software Developers Specialization" style="display:inline-block; margin: 0 5px 5px 0;"><img src="https://images.credly.com/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png" alt="Generative AI for Software Developers Specialization" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a6e7c376-5d1d-4c73-b3af-1ea6d567e857" title="Generative AI: Prompt Engineering" style="display:inline-block; margin: 0 5px 5px 0;"><img src="https://images.credly.com/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="Generative AI: Prompt Engineering" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-</p>
+</tr></table>
 
 > Find all my badges on [Credly.com](https://www.credly.com/users/hector-rafael-rivero-marquez/badges)
 
