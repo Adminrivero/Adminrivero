@@ -56,10 +56,17 @@ def extract_badges_html(json_data):
             badge_url = f"https://www.credly.com/badges/{badge_id}"
             
             # Generate HTML snippet
+            # html += (
+            #     f'<a href="{badge_url}" title="{badge_name}" style="display:inline-block; margin: 0 5px 5px 0;">'
+            #     f'<img src="{image_url}" alt="{badge_name}" width="{width}" height="{height}">'
+            #     f'</a>\n'
+            # )
             html += (
-                f'<a href="{badge_url}" title="{badge_name}" style="display:inline-block; margin: 0 5px 5px 0;">'
+                f'<td style="padding: 5px; text-align: center;">'
+                f'<a href="{badge_url}" title="{badge_name}">'
                 f'<img src="{image_url}" alt="{badge_name}" width="{width}" height="{height}">'
-                f'</a>\n'
+                f'</a>'
+                f'</td>\n'
             )
         except KeyError as e:
             print(f"Skipping badge due to missing key: {e}")
